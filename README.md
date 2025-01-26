@@ -7,3 +7,6 @@ Mi Primer Dashboard contiene información de las 📊 emisiones de CO2 en USA po
 📢📉📉Aquí el vínculo al reporte de Power BI: 
 
 [Ver Dashboard](https://msorin81.github.io/Portafolio-.-MBExcel-./)
+
+
+https://msorin81.github.io/Portafolio-.-MBExcel-./reporte2.html
