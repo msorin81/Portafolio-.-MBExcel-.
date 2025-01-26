@@ -8,4 +8,4 @@ https://github.com/msorin81/Portafolio-.-MBExcel-./blob/7a54de110697c7155d235f37
 
 [Ver Dashboard]([https://TU-USUARIO.github.io/NOMBRE-DEL-REPOSITORIO](https://github.com/msorin81/Portafolio-.-MBExcel-./blob/7a54de110697c7155d235f374e1170779db4e1d7/index.html/)
 
-[Ver Dashboard](https://msorin81.github.io/Portafolio-.-MBExcel-./)
+[Ver Dashboard](https://msorin81.github.io/Portafolio-.-MBExcel-./blob/7a54de110697c7155d235f374e1170779db4e1d7/index.html/)
