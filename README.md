@@ -10,4 +10,5 @@ Mi Primer Dashboard contiene información de las 📊 emisiones de CO2 en USA po
 
 
 
-[Ver Dashboard](https://msorin81.github.io/Portafolio-.-MBExcel-./Reporte ventas/)
+[Ver Dashboard - Reporte de Ventas](https://msorin81.github.io/Portafolio-.-MBExcel-./reporte-ventas.html)
+
