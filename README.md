@@ -1,9 +1,9 @@
 # Portafolio-.-MBExcel-.
 
-Comparto mi repositorio de proyectos de Power BI
+Comparto mi repositorio de proyectos de Power BI:
 
-https://github.com/msorin81/Portafolio-.-MBExcel-./commit/7a54de110697c7155d235f374e1170779db4e1d7#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051
+Mi Primer Dashboard contiene información de las 📊 emisiones de CO2 en USA por estado, desde 1970 hasta 2021.
 
-https://github.com/msorin81/Portafolio-.-MBExcel-./blob/7a54de110697c7155d235f374e1170779db4e1d7/index.html
+📢📉📉Aquí el vínculo al reporte de Power BI: 
 
-https://msorin81.github.io/Portafolio-.-MBExcel-./
+[Ver Dashboard](https://msorin81.github.io/Portafolio-.-MBExcel-./)
